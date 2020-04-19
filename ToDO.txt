@@ -1,0 +1,9 @@
+-GAPS
+ -top banner , nav and picture
+
+-pics
+ vegan slide show
+ 
+-sizing stuff
+
+-clean up
